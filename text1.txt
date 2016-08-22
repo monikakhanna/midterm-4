@@ -1,4 +1,5 @@
 
  Hello world chnaged by user 2   again with stash
  Hello world chnaged by user 2   agai n stash locally
-aded in feature 
+aded in feature
+added in feature2 
